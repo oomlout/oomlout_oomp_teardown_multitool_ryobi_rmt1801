@@ -34,13 +34,22 @@ disassembly:
 - index: 10
   title: "pull apart the shell"
   description: "Pull the shell apart. This is tricky because the wires are soldered on after the shell is put together. Remove as much solder from the tabs as possible. I couldn't get enough removed so also needed to heat the tabs enough to melt the plastic to force a bigger hole."
+disassembly_part:
+- index: 1
+  designator: "q1"
+  note: "main driver"
+  description: "n channel mosfet mxp4002at 262 amp 40 v gds"
+  mpn: "mxp4002at"
+  datasheet: "images/q1.pdf"  
 tool:
 - index: 1
   title: "torx 10 screwdriver"
   description: "torx 10 screwdriver"
 - index: 2
   title: "philips screwdriver"
-  description: "philips screwdriver"  
+  description: "philips screwdriver" 
+  
+
 
 
 

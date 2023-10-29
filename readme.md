@@ -4,6 +4,10 @@ Oomp Teardown Multitool Ryobi RMT1801
 Oomp Teardown Multitool Ryobi RMT1801  
 
 
+## tools
+* torx 10 screwdriver - torx 10 screwdriver)
+* philips screwdriver - philips screwdriver)
+
 ## disassembly
 ### step: 1
 [![](images/disassembly_1_300.jpg)](images/disassembly_1.jpg)  
@@ -36,6 +40,9 @@ There are 8 plastic clips securing the shell on, try your best to unclip and wed
 [![](images/disassembly_10_300.jpg)](images/disassembly_10.jpg)  
 Pull the shell apart. This is tricky because the wires are soldered on after the shell is put together. Remove as much solder from the tabs as possible. I couldn't get enough removed so also needed to heat the tabs enough to melt the plastic to force a bigger hole.
 
+
+## disassembly parts
+* q1 - mxp4002at - main driver - n channel mosfet mxp4002at 262 amp 40 v gds - [datasheet](images/q1.pdf)
 
 
 
