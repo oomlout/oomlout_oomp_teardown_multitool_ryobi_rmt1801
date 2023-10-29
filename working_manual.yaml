@@ -1,0 +1,29 @@
+id: oomlout_oomp_teardown_multitool_ryobi_rmt1801
+name: "Oomp Teardown Multitool Ryobi RMT1801"
+description: "Oomp Teardown Multitool Ryobi RMT1801"
+readme_manual: ""
+disassembly:
+- index: 1
+  title: "ready to teardown"
+  description: "ready to teardown"
+- index: 2
+  title: "cutting head removed"
+  description: "the cutting head removed"  
+- index: 3
+  title: "remove screws"
+  description: "remove 8 screws using a torx 10 screwdriver"
+- index: 4
+  title: "pull clamshell apart"
+  description: "pull the clamshell apart"
+- index: 5
+  title: "remove the connector"
+  description: "chip away the glue securing the multi pin connector and unplug it"
+- index: 6
+  title: "remove the switch"
+  description: "desolder the four wires connected to the switch"
+tool:
+- index: 1
+  title: "torx 10 screwdriver"
+  description: "torx 10 screwdriver"
+
+
